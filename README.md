@@ -17,3 +17,9 @@ Implemented a 2-layer, feed-forward neural network that is trined using the back
 
 ## Naive Bayes Classifier
 Implemented a general Naive Bayes classifier for categorizing news articles as either Sports or Business.
+
+## Chatbot
+Implemented a chatbot that answers questions about Artificial Intelligence.
+
+## Linear Regression
+Used Linear Regression to estimate the amount of Ice at a given period of time.
